@@ -11,6 +11,7 @@ public class CounterAndSay {
         if(n == 1) return "1";
         if(n == 2) return "11";
         String str = "11";
+
         //从第二层开始
         for (int i = 2; i < n; i++) {
             StringBuilder newStr = new StringBuilder();
