@@ -3,7 +3,7 @@ package com.daquan.leetcode.simple;
 import java.util.HashMap;
 
 /**
- * @Desc TODO
+ * @Desc 两数之和
  * @Author zhangdaquan
  * @Date 2021/1/2
  */
