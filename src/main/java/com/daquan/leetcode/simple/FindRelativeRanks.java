@@ -3,7 +3,10 @@ package com.daquan.leetcode.simple;
 import java.util.Arrays;
 
 /**
- * @Desc TODO
+ * @Desc 给出 N 名运动员的成绩，找出他们的相对名次并授予前三名对应的奖牌。前三名运动员将会被分别授予 “金牌”，“银牌” 和“ 铜牌”（"Gold Medal", "Silver Medal", "Bronze Medal"）。
+ * 来源：力扣（LeetCode）
+ * 链接：https://leetcode-cn.com/problems/relative-ranks
+ * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  * @Author zhangdaquan
  * @Date 2021/6/30
  */
