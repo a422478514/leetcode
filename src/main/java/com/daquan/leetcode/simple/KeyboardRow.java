@@ -61,6 +61,6 @@ public class KeyboardRow {
             }
         }
 
-        return list.toArray(new String[list.size()]);;
+        return list.toArray(new String[list.size()]);
     }
 }
